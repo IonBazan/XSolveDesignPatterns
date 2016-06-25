@@ -1,0 +1,18 @@
+{
+  "name": "xsolve-pl/design-patterns-php",
+  "description": "Sample code for several design patterns in PHP",
+  "authors": [
+    {
+      "name": "XSolve"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require-dev": {
+    "phpunit/phpunit": "^4.6"
+  },
+  "autoload": {
+    "psr-4": {
+      "": "src"
+    }
+  }
+}
